@@ -15,7 +15,7 @@ Here's a possible description for your app's `README.md`:
 - **Ease of Use**: Intuitive interface designed for non-technical users.  
 ![Home](/home1.png)   
 
-
+#####
 ## Benefits  
 - Simplifies the process of inventory management, saving time and effort.  
 - Reduces errors and ensures accurate record-keeping.  
