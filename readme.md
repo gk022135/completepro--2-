@@ -27,9 +27,3 @@ Here's a possible description for your app's `README.md`:
 - **JavaFX/Swing**: For creating an intuitive and responsive user interface.  
 - **SQLite/MySQL**: Local database support for data storage and retrieval.  
 
-## Getting Started  
-1. Download and install the app on your desktop.  
-2. Add your supplier and inventory details.  
-3. Begin managing your shop effortlessly!  
-
-Feel free to suggest changes to tailor this to your app's features or vision. 😊
