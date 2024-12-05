@@ -13,13 +13,15 @@ Here's a possible description for your app's `README.md`:
 - **Inventory Tracking**: Keep track of stock levels, availability, and product categories.  
 - **Data Security**: Safely store all business-critical information with local database support.  
 - **Ease of Use**: Intuitive interface designed for non-technical users.  
-![GitHub log](/home1.png)   
+![Home](/home1.png)   
 
 
 ## Benefits  
 - Simplifies the process of inventory management, saving time and effort.  
 - Reduces errors and ensures accurate record-keeping.  
 - Enhances operational efficiency and organization for shop owners.  
+![product Manager](/produc.png)
+![product Manager](/order.png)
 
 ## Technologies Used  
 - **Java**: Core programming language for application development.  
